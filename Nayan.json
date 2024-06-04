@@ -6,17 +6,17 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "JOY-BOT",
+  "BOTNAME": "MAHIN_BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100065050393649",
-    "100005938666995"
+    "61560227353791"
   ],
   "ADMINBOT": [
-    "100065050393649",
-    "100005938666995"
+    "61560227353791",
+    "61560227353791"
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61560227353791"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
